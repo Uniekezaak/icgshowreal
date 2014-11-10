@@ -1,0 +1,24 @@
+.borderbg {
+	background-color: #3c3b32;
+	height:58px;
+	width:100%;
+	position: absolute;
+	top:95px;
+}
+
+@media (min-width: 992px) {
+	
+	.borderbg {
+		height:50px;
+		top:75px;
+	}
+}
+
+@media (min-width: 768px) {
+	.borderbg {
+		height:56px;
+		top:92px;
+	}
+	
+	
+}
